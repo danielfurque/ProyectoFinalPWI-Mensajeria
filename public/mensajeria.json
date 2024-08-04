@@ -1,0 +1,399 @@
+[
+    {
+        "nombre": "Stan Marsh",
+        "thumbnail": "stan.jpg",
+        "ultima_conexion": "hoy",
+        "id": 1,
+        "mensajes": [
+            {
+                "author": "Stan Marsh",
+                "text": "Cuando arrancas backend?",
+                    "status": "visto",
+                "day": "hoy",
+                "hour": "10:00",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "El miercoles 7 de Agosto!",
+                "status": "visto",
+                "day": "hoy",
+                "hour": "10:05",
+                "id": "2"
+            },
+            {
+                "author": "Stan Marsh",
+                "text": "Buenisimo! es la mejor parte de la diplomatura",
+                "status": "visto",
+                "day": "hoy",
+                "hour": "10:10",
+                "id": "3"
+            },
+            {
+                "author": "yo",
+                "text": "totalmente, coincido!",
+                "status": "visto",
+                "day": "hoy",
+                "hour": "10:15",
+                "id": "4"
+            }
+        ]
+    },
+    {
+        "nombre": "Kyle Broflovski",
+        "thumbnail": "kyle.jpg",
+        "ultima_conexion": "ayer",
+        "id": 2,
+        "mensajes": [
+            {
+                "author": "Kyle Broflovski",
+                "text": "Hiciste el trabajo final de Front-end?",
+                "status": "visto",
+                "day": "ayer",
+                "hour": "16:00",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "estoy en eso! espero llegar con los tiempos jeje",
+                "status": "visto",
+                "day": "ayer",
+                "hour": "16:05",
+                "id": "2"
+            },
+            {
+                "author": "Kyle Broflovski",
+                "text": "Seguro llegas, vos podes!",
+                "status": "visto",
+                "day": "ayer",
+                "hour": "16:10",
+                "id": "3"
+            }
+      
+        ]
+    },
+    {
+        "nombre": "Eric Cartman",
+        "thumbnail": "cartman.jpg",
+        "ultima_conexion": "hace 2 días",
+        "id": 3,
+        "mensajes": [
+            {
+                "author": "Eric Cartman",
+                "text": "Ojala desapruebes el final de Front-end",
+                "status": "visto",
+                "day": "hace 2 días",
+                "hour": "11:30",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "gracias por ese positivismo Cartman",
+                "status": "visto",
+                "day": "hace 2 días",
+                "hour": "11:35",
+                "id": "2"
+            }
+           
+        ]
+    },
+    {
+        "nombre": "Kenny McCormick",
+        "thumbnail": "kenny.jpg",
+        "ultima_conexion": "hace 3 días",
+        "id": 4,
+        "mensajes": [
+            {
+                "author": "Kenny McCormick",
+                "text": "Hola Danii",
+                "status": "visto",
+                "day": "hace 3 días",
+                "hour": "14:20",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "Hola Kenny! como va todo?",
+                "status": "visto",
+                "day": "hace 3 días",
+                "hour": "14:25",
+                "id": "2"
+            },
+            {
+                "author": "Kenny McCormick",
+                "text": "Bienn, sobreviviendo!",
+                "status": "visto",
+                "day": "hace 3 días",
+                "hour": "14:30",
+                "id": "3"
+            }
+        ]
+    },
+    {
+        "nombre": "Butters Stotch",
+        "thumbnail": "butters.jpg",
+        "ultima_conexion": "hace 4 días",
+        "id": 5,
+        "mensajes": [
+            {
+                "author": "Butters Stotch",
+                "text": "Danii, voy a participar de un show de talentos, estas invitado!",
+                "status": "visto",
+                "day": "hace 4 días",
+                "hour": "15:00",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "Si claro Butters, segurisimo que lo ganas!",
+                "status": "visto",
+                "day": "hace 4 días",
+                "hour": "15:05",
+                "id": "2"
+            }
+        ]
+    },
+    {
+        "nombre": "Randy Marsh",
+        "thumbnail": "randy.jpg",
+        "ultima_conexion": "hace 5 días",
+        "id": 6,
+        "mensajes": [
+            {
+                "author": "Randy Marsh",
+                "text": "Hola Dani, necesito hacer una pagina, vos me podes ayudar?",
+                "status": "visto",
+                "day": "hace 5 días",
+                "hour": "17:30",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "Hola Randy, te puedo dar una mano con eso!",
+                "status": "visto",
+                "day": "hace 5 días",
+                "hour": "17:35",
+                "id": "2"
+            }
+        ]
+    },
+
+    {
+        "nombre": "Tweek Tweak",
+        "thumbnail": "tweek.jpg",
+        "ultima_conexion": "hace 30 minutos",
+        "id": 7,
+        "mensajes": [
+            {
+                "author": "Tweek Tweak",
+                "text": " Tengo Demasiada presión! Necesito café para calmar los nervios",
+                "status": "visto",
+                "day": "hoy",
+                "hour": "08:00",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "Tomate un te de tilo Tweek",
+                "status": "visto",
+                "day": "hoy",
+                "hour": "08:05",
+                "id": "2"
+            }
+        ]
+    },
+    {
+        "nombre": "Craig Tucker",
+        "thumbnail": "craig.jpg",
+        "ultima_conexion": "hace 2 horas",
+        "id": 8,
+        "mensajes": [
+            {
+                "author": "Craig Tucker",
+                "text": "Necesito comprar ropa nueva, ¿me recomendas algun local?",
+                "status": "visto",
+                "day": "hoy",
+                "hour": "09:00",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "Hay un local en el centro que tiene buenos precios. Te paso la dirección?",
+                "status": "visto",
+                "day": "hoy",
+                "hour": "09:05",
+                "id": "2"
+            }
+        ]
+    },
+    {
+        "nombre": "Token Black",
+        "thumbnail": "token.jpg",
+        "ultima_conexion": "ayer",
+        "id": 9,
+        "mensajes": [
+            {
+                "author": "Token Black",
+                "text": "Estoy organizando un asado el finde, venis?",
+                "status": "visto",
+                "day": "ayer",
+                "hour": "10:00",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "Claro Token, llevo fernet",
+                "status": "visto",
+                "day": "ayer",
+                "hour": "10:05",
+                "id": "2"
+            }
+        ]
+    },
+    {
+        "nombre": "Bebe Stevens",
+        "thumbnail": "bebe.jpg",
+        "ultima_conexion": "hace 3 días",
+        "id": 10,
+        "mensajes": [
+            {
+                "author": "Bebe Stevens",
+                "text": "viste mi nuevo collar? Lo perdí y no puedo encontrarlo.",
+                "status": "visto",
+                "day": "hace 3 días",
+                "hour": "11:00",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "Ni idea, queres que te ayude a buscar?",
+                "status": "visto",
+                "day": "hace 3 días",
+                "hour": "11:05",
+                "id": "2"
+            }
+        ]
+    },
+    {
+        "nombre": "Clyde Donovan",
+        "thumbnail": "clyde.jpg",
+        "ultima_conexion": "hace 4 días",
+        "id": 11,
+        "mensajes": [
+            {
+                "author": "Clyde Donovan",
+                "text": "Necesito consejos para mi presentación de ciencia, tenes algún tip?",
+                "status": "visto",
+                "day": "hace 4 días",
+                "hour": "12:00",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "Claro, asegurate de practicar mucho y de conocer bien tu tema",
+                "status": "visto",
+                "day": "hace 4 días",
+                "hour": "12:05",
+                "id": "2"
+            }
+        ]
+    },
+    {
+        "nombre": "Timmy Burch",
+        "thumbnail": "timmy.jpg",
+        "ultima_conexion": "hace 5 días",
+        "id": 12,
+        "mensajes": [
+            {
+                "author": "Timmy Burch",
+                "text": "Timmy!",
+                "status": "visto",
+                "day": "hace 5 días",
+                "hour": "13:00",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "Hola Timmy!",
+                "status": "visto",
+                "day": "hace 5 días",
+                "hour": "13:05",
+                "id": "2"
+            }
+        ]
+    },
+    {
+        "nombre": "Wendy Testaburger",
+        "thumbnail": "wendy.jpg",
+        "ultima_conexion": "hace 10 minutos",
+        "id": 13,
+        "mensajes": [
+            {
+                "author": "Wendy Testaburger",
+                "text": "Vas al asado de Token el finde?",
+                "status": "visto",
+                "day": "hoy",
+                "hour": "12:00",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "Síi, seguro que voy!",
+                "status": "visto",
+                "day": "hoy",
+                "hour": "12:05",
+                "id": "2"
+            }
+        ]
+    },
+    {
+        "nombre": "Mr. Garrison",
+        "thumbnail": "garrison.jpg",
+        "ultima_conexion": "ayer",
+        "id": 14,
+        "mensajes": [
+            {
+                "author": "Mr. Garrison",
+                "text": "Hola Dani, no te olvides de presentar tu proyecto final de Front-end",
+                "status": "visto",
+                "day": "ayer",
+                "hour": "09:00",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "Sii Mr. Garrison, no me olvido!",
+                "status": "visto",
+                "day": "ayer",
+                "hour": "09:05",
+                "id": "2"
+            }
+        ]
+    },
+    
+    {
+        "nombre": "Chef",
+        "thumbnail": "chef.jpg",
+        "ultima_conexion": "ayer",
+        "id": 15,
+        "mensajes": [
+            {
+                "author": "Chef",
+                "text": "Hola Dani, estoy vendiendo hamburguesas, te interesa?",
+                "status": "visto",
+                "day": "ayer",
+                "hour": "14:00",
+                "id": "1"
+            },
+            {
+                "author": "yo",
+                "text": "Si Chef!, haces delivery?",
+                "status": "visto",
+                "day": "ayer",
+                "hour": "14:05",
+                "id": "2"
+            }
+        ]
+    }
+
+]

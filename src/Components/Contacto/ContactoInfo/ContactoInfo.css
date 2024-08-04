@@ -1,0 +1,99 @@
+.contact-info-container {
+    background-color: #002233; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    min-height: 100vh;
+  }
+  
+  .info-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid #004455; 
+  }
+  
+  .info-details {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .thumbnail {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #004455;
+  }
+  
+  .contact-details {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contact-name {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .info-icons {
+    font-size: 24px;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
+  .info-actions {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin: 20px 0;
+    border-bottom: 1px solid #004455;
+    padding-bottom: 20px;
+  }
+  
+  .action-icon-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    margin: 5px 0 0;
+  }
+  
+  .decorado {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  
+  .item-information {
+    display: flex;
+    align-items: center;
+    padding: 15px 0;
+    border-bottom: 1px solid #004455;
+    cursor: pointer;
+  }
+  
+  .item-information p {
+    margin: 0;
+    margin-left: 10px;
+    flex-grow: 1;
+  }
+  
+  .item-information span {
+    font-size: 12px;
+    color: #a0a0a0;
+    display: block;
+    margin-top: 2px;
+  }
+  
+  .arrow-icon {
+    font-size: 24px;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  

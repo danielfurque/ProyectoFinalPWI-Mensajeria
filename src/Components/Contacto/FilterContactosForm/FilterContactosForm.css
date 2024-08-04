@@ -1,0 +1,20 @@
+.filter-contactos-form {
+  width: 100%; 
+  display: flex; 
+  margin-top: 10px; 
+
+}
+
+.filter-contactos-form-input {
+  width: 100%; 
+  font-size: 16px; 
+  border: none; 
+  background-color: #075E54; 
+  color: white; 
+  outline: none; 
+
+}
+
+.filter-contactos-form-input::placeholder {
+  color: rgba(255, 255, 255, 0.7); 
+}

@@ -1,0 +1,25 @@
+.contact-screen{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #002233;
+    overflow: hidden;
+}
+
+@media (max-width: 1199px) { 
+    .contact-screen{
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .contact-screen{
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 1400px){
+    .contact-screen{
+        font-size: 25px;
+    }
+}

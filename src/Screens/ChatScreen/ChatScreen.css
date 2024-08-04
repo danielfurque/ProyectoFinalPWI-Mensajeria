@@ -1,0 +1,23 @@
+.lista-mensajes{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+@media (max-width: 1199px) { 
+    .lista-mensajes{
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .lista-mensajes{
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 1400px){
+    .lista-mensajes{
+        font-size: 25px;
+    }
+}
