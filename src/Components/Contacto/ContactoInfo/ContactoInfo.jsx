@@ -52,17 +52,26 @@ const ContactoInfo = () => {
         <IoEllipsisVertical className="info-icons" />
       </div>
       <div className="info-actions">
-      <div className="action-icon-container"><MdOutlinePhone className="info-icons" /><p>Llamar</p></div>
-      <div className="action-icon-container"><MdOutlineVideocam className="info-icons" /><p>Video</p></div>
-      <div className="action-icon-container"><MdSearch className="info-icons" /><p>Buscar</p></div>
+      <div className="action-icon-container"><MdOutlinePhone className="info-icons" />
+      <p>Llamar</p></div>
+      <div className="action-icon-container"><MdOutlineVideocam className="info-icons" />
+      <p>Video</p></div>
+      <div className="action-icon-container"><MdSearch className="info-icons" />
+      <p>Buscar</p></div>
       </div>
-      <div className="decorado">
-        <div className="item-information"><IoNotificationsSharp  className="info-icons" /><p>Notificaciones</p></div>
-        <div className="item-information"><AiOutlinePicture className="info-icons" /><p>Multimedia, links y documentos</p></div>
-        <div className="item-information"><FaStar  className="info-icons" /><p>Mensajes destacados</p></div>
-        <div className="item-information"><MdAccessTimeFilled  className="info-icons" /><p>Mensajes temporales <span >Desactivados</span></p></div>
-        <div className="item-information"><PiLockLaminatedFill className="info-icons" /><p>Restringir chat<span >Restringe y oculta este chat en este dispositivo</span></p> </div>
-        <div className="item-information"><IoLockClosed   className="info-icons"/><p>Cifrado<span >Los mensajes y las llamadas están cifrados de extremo a extremo. Toca para verificarlo</span></p></div>
+      <div className="item-information-container">
+        <div className="item-information"><IoNotificationsSharp  className="info-icons" />
+        <p>Notificaciones</p></div>
+        <div className="item-information"><AiOutlinePicture className="info-icons" />
+        <p>Multimedia, links y documentos</p></div>
+        <div className="item-information"><FaStar  className="info-icons" />
+        <p>Mensajes destacados</p></div>
+        <div className="item-information"><MdAccessTimeFilled  className="info-icons" />
+        <p>Mensajes temporales <span >Desactivados</span></p></div>
+        <div className="item-information"><PiLockLaminatedFill className="info-icons" />
+        <p>Restringir chat<span >Restringe y oculta este chat en este dispositivo</span></p> </div>
+        <div className="item-information"><IoLockClosed   className="info-icons"/>
+        <p>Cifrado<span >Los mensajes y las llamadas están cifrados de extremo a extremo. Toca para verificarlo</span></p></div>
 
       </div>
     </div>
